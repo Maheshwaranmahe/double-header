@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+.header{
+    background-color: black;
+    position: absolute;
+    height: 10%;
+    width: 99%;
+}    
+.nav{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    margin-top: 7px;
+    margin-left: 25px;
+}
+.nav a{
+    color: blue;
+    font-size:large;
+    padding: 30px;
+}
+.nav a:hover {
+    background-color: white;
+}
+header{
+    background-color: blue;
+    position: absolute;
+    height: 10%;
+    width: 99%;
+    top: 5%;
+}
+.logo{
+    height: 100%;
+    width: 30%;
+    margin-left: 15%;
+}
+.logo img{
+    height: 100%;
+    width: 60%;
+}
+.nav1{
+    height: 75%;
+    width: 100px;
+    position: absolute;
+    margin-left: 45%;
+    margin-top: 7px;
+}
+.nav2{
+    height: 75%;
+    width: 100px;
+    position: absolute;
+    margin-left: 55%;
+    margin-top: 7px
+}
